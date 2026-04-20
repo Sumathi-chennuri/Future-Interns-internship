@@ -124,6 +124,6 @@ It improved my ability to design, develop, and deploy scalable web solutions.
 ## 📬 Contact
 
 * 📧 Email: [sumachennuri523@gmail.com](mailto:sumachennuri523@gmail.com)
-* 🔗 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+* 🔗 GitHub: [https://github.com/Sumathi-chennuri](https://github.com/Sumathi-chennuri)
 * 🔗 LinkedIn: https://linkedin.com/in/sumathi-chennuri-89817124b/
 
