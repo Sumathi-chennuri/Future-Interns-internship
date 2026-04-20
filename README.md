@@ -26,6 +26,7 @@ The internship focuses on building **real-world, scalable, and modern web applic
 🔹 Task 3: Business Website  
 👉 [Open Task 3](./FUTURE_FS_03)
 
+---
 
 ### 🔹 Task 1: Personal Professional Portfolio Website
 
