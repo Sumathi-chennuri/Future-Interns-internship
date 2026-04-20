@@ -1,4 +1,4 @@
-# FUTURE_FS_02 - Mini E-Commerce Store
+# FUTURE_FS_02 - Mini CRM
 
 ## Description
 Simple e-commerce storefront with cart simulation.
